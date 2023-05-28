@@ -365,6 +365,11 @@ body {
   border-radius: 32px;
 }
 
+.swiper-slide img {
+  height: 100%;
+  border-radius: 32px;
+}
+
 .text-box {
   position: relative;
   -webkit-box-orient: vertical;
